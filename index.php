@@ -181,42 +181,38 @@
             </section>
             <!-- End Hero -->
 
-
-              <!-- Start About -->
-            <section class="ak-about-bg-color">
+<section class="ak-about-bg-color">
                 <div class="ak-height-150 ak-height-lg-60"></div>
-                <div class="container">
-                    <div class="ak-about ak-style-3">
+                <div class="container-fluid">
+                    <div class="ak-about ak-style-2">
+                        <div class="about-img-2">
+                            <img src="assets/img/about2.jpg" alt="...">
+                        </div>
                         <div class="text-content">
                             <div class="ak-section-heading ak-sytle-2">
                                 <div class="mini-title style-1">
                                     <div class="mini-title-border"></div>
                                     <p class="mini-text">Welcome</p>
                                 </div>
-                                <h2 class="section-title anim-title-2"><span>Experience the Pinnacle of Luxury at</span>
-                                    "Excusine Resort"
-                                </h2>
+                                <h2 class="section-title anim-title-2"><span><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 19.475px 34.5px; opacity: 1; transform: translate(0px, 0px);">E</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 15.75px 34.5px; opacity: 1; transform: translate(0px, 0px);">x</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 16.8937px 34.5px; opacity: 1; transform: translate(0px, 0px);">p</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.3125px 34.5px; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 11.7625px 34.5px; opacity: 1; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 8.525px 34.5px; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.3125px 34.5px; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 17.85px 34.5px; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.1px 34.5px; opacity: 1; transform: translate(0px, 0px);">c</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.3125px 34.5px; opacity: 1; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 10.175px 34.5px; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 17.4625px 34.5px; opacity: 1; transform: translate(0px, 0px);">h</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.3125px 34.5px; opacity: 1; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 19.05px 34.5px; opacity: 1; transform: translate(0px, 0px);">P</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 8.525px 34.5px; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 17.85px 34.5px; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 17.85px 34.5px; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.7px 34.5px; opacity: 1; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.1px 34.5px; opacity: 1; transform: translate(0px, 0px);">c</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 8.28125px 34.5px; opacity: 1; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.3125px 34.5px; opacity: 1; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 16.5px 34.5px; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 10.175px 34.5px; opacity: 1; transform: translate(0px, 0px);">f</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 19.5312px 34.5px; opacity: 1; transform: translate(0px, 0px);">L</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 17.1313px 34.5px; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 15.75px 34.5px; opacity: 1; transform: translate(0px, 0px);">x</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 17.1313px 34.5px; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 11.7625px 34.5px; opacity: 1; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 15.6938px 34.5px; opacity: 1; transform: translate(0px, 0px);">y</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.7px 34.5px; opacity: 1; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 10.175px 34.5px; opacity: 1; transform: translate(0px, 0px);">t</div></div></span> <div style="position:relative;display:inline-block;"> <div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 10.2625px 34.5px; opacity: 1; transform: translate(0px, 0px);">"</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 19.475px 34.5px; opacity: 1; transform: translate(0px, 0px);">E</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 15.75px 34.5px; opacity: 1; transform: translate(0px, 0px);">x</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.1px 34.5px; opacity: 1; transform: translate(0px, 0px);">c</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 17.1313px 34.5px; opacity: 1; transform: translate(0px, 0px);">u</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 11.7937px 34.5px; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 8.525px 34.5px; opacity: 1; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 17.85px 34.5px; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.3125px 34.5px; opacity: 1; transform: translate(0px, 0px);">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 17.4625px 34.5px; opacity: 1; transform: translate(0px, 0px);">h</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 16.5px 34.5px; opacity: 1; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 10.175px 34.5px; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.3125px 34.5px; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 8.28125px 34.5px; opacity: 1; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 10.2625px 34.5px; opacity: 1; transform: translate(0px, 0px);">"</div></div> </h2>
+
                                 <p class="section-desp">Welcome to our resort, where culinary artistry meets exceptional
                                     dining experiences. At, we strive to create a gastronomic haven that tantalizes your
                                     taste buds and leaves you with unforgettable memories.
                                 </p>
+                                <br>
+                                <p class="section-desp">Lorem to our hotel, where culinary artistry meets exceptional
+                                    dining experiences. At, we strive to create a gastronomic haven that.
+                                </p>
+
                             </div>
                             <div class="ak-signature">
-                                <div class="text-btn">
-                                    <a href="event-list.html" class="text-btn1 type-2 text-uppercase">
-                                        View More
-                                    </a>
-                                </div>
+                                <img src="assets/img/signature.png" alt="...">
                             </div>
-                        </div>
-                        <div class="about-img-2">
-                            <img src="assets/img/about3_2.jpg" class="about-img-two me-xl-2" alt="...">
-                            <img src="assets/img/about3.jpg" alt="...">
                         </div>
                     </div>
                 </div>
             </section>
-            <!-- End About -->
 
 
             <!-- Start Room -->
@@ -435,79 +431,46 @@
             </section>
             <!-- End Room -->
 
-
-            <!-- Start Core Aminities -->
             <section>
                 <div class="ak-height-150 ak-height-lg-60"></div>
-                <div class="container">
-                    <div class="core-services row">
-                        <div class="col-xl-4 col-lg-5 col-12">
-                            <div class="ak-section-heading ak-sytle-2">
-                                <div class="mini-title style-1">
-                                    <div class="mini-title-border"></div>
-                                    <p class="mini-text">Amenities</p>
+                <div class="ak-booking-system">
+                    <img class="ak-booking-system-bg-img ak-bg imagesZoom" src="assets/img/paralax_bg.png" alt="..." style="translate: none; rotate: none; scale: none; transform: translate3d(0px, 0px, 0.07px) rotate(0.007deg) scale(1.105, 1.105); transform-origin: 50% 50%;">
+                    <div class="ak-height-200 ak-height-lg-60"></div>
+                    <div class="container">
+                        <div class="row justify-content-center align-content-center align-items-center">
+                            <div class="col-md-6 col-12">
+                                <div class="ak-height-lg-60"></div>
+                                <div class="text-center">
+                                    <a href="https://www.youtube.com/watch?v=UsD1MhKBmD4" class="ak-video-block ak-style1 ak-video-open">
+                                        <span class="ak-player-btn ak-accent-color">
+                                            <span></span>
+                                        </span>
+                                    </a>
                                 </div>
-                                <h2 class="section-title anim-title-2"><span>Core</span>Amenities</h2>
+                                <div class="ak-height-lg-60"></div>
                             </div>
-                            <div class="ak-height-30 ak-height-lg-10"></div>
-                            <div class="services-list">
-                                <div class="ak-serice-pagination swiper-pagination-clickable">
-                                    <h4 class="feature-list swiper-pagination-bullet swiper-pagination-bullet-active"
-                                        tabindex="0" aria-current="true"> 01 / Grand Banquet Halls </h4>
-                                    <h4 class="feature-list swiper-pagination-bullet"> 02 / Expansive Lawn Areas
-                                    </h4>
-                                    <h4 class="feature-list swiper-pagination-bullet"> 03 / Large Guest Capacity
-                                    </h4>
-                                    <h4 class="feature-list swiper-pagination-bullet"> 04 / Open Sky Celebration Venue
-                                    </h4>
-                                    <h4 class="feature-list swiper-pagination-bullet"> 05 / Prime Location Access </h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-7 col-lg-6 col-12">
-                            <div class="ak-slider ak-slider-core-services">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="core-services-img">
-                                            <img class="services-img
-                                            " src="assets/img/core-services.jpg" alt="...">
-                                            <div class="img-overlap"></div>
+                            <div class="col-md-6 col-12">
+                                <div class="booking-system">
+                                    <div class="ak-section-heading ak-sytle-2">
+                                        <div class="mini-title style-1">
+                                            <div class="mini-title-border"></div>
+                                            <p class="mini-text">Welcome</p>
                                         </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="core-services-img">
-                                            <img class="services-img" src="assets/img/resort_service_2.jpg"
-                                                alt="...">
-                                            <div class="img-overlap"></div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="core-services-img">
-                                            <img class="services-img" src="assets/img/resort_services_3.jpg"
-                                                alt="...">
-                                            <div class="img-overlap"></div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="core-services-img">
-                                            <img class="services-img" src="assets/img/resort_service_4.jpg"
-                                                alt="...">
-                                            <div class="img-overlap"></div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="core-services-img">
-                                            <img class="services-img" src="assets/img/resort_services_5.jpg"
-                                                alt="...">
-                                            <div class="img-overlap"></div>
-                                        </div>
+                                        <h2 class="section-title anim-title-2"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 16.8312px 34.5px; opacity: 1; transform: translate(0px, 0px);">S</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 16.8937px 34.5px; opacity: 1; transform: translate(0px, 0px);">p</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.7px 34.5px; opacity: 1; transform: translate(0px, 0px);">a</div></div> <span><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.7px 34.5px; opacity: 1; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 17.85px 34.5px; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 16.35px 34.5px; opacity: 1; transform: translate(0px, 0px);">d</div></div></span> <div style="position:relative;display:inline-block;"> <div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 31.475px 34.5px; opacity: 1; transform: translate(0px, 0px);">W</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.3125px 34.5px; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 8.28125px 34.5px; opacity: 1; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 8.28125px 34.5px; opacity: 1; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 17.85px 34.5px; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.3125px 34.5px; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 11.7937px 34.5px; opacity: 1; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 11.7937px 34.5px; opacity: 1; transform: translate(0px, 0px);">s</div></div> <span><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 21.6px 34.5px; opacity: 1; transform: translate(0px, 0px);">C</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.3125px 34.5px; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 17.85px 34.5px; opacity: 1; transform: translate(0px, 0px);">n</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 10.175px 34.5px; opacity: 1; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 14.3125px 34.5px; opacity: 1; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform-origin: 11.7625px 34.5px; opacity: 1; transform: translate(0px, 0px);">r</div></div></span>
+                                        </h2>
+                                        <p class="section-desp">Welcome to our resort, where culinary artistry meets
+                                            exceptional dining experiences. At, we strive to create a gastronomic haven
+                                            that tantalizes your taste buds and leaves you with unforgettable memories.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <div class="ak-height-200 ak-height-lg-60"></div>
                 </div>
             </section>
+            
 
             <!-- End Core Aminities -->
 
@@ -693,141 +656,157 @@
                     </div>
                 </div>
             </section>
+
             <!-- End Testimonial -->
+          <div class="ak-height-150 ak-height-lg-60"></div>
+          <div class="video-section">
+                <img src="assets/img/video_1.png" alt="..." class="video-section-bg-img ak-bg imagesZoom" data-speed="1.1" data-lag="0" style="translate: none; rotate: none; scale: none; transform: translate3d(0px, -37px, 0.1px) rotate(0.01deg) scale(1.15, 1.15); will-change: transform; transform-origin: 50% 50%;">
+                <div class="video-section-btn">
+                    <a href="https://www.youtube.com/watch?v=UsD1MhKBmD4" class="ak-video-block ak-style1 ak-video-open">
+                        <span class="ak-player-btn ak-accent-color">
+                            <span></span>
+                        </span>
+                    </a>
+                </div>
+            </div>
 
-
-            <!-- Start Why Choose Us -->
-            <section>
+           <section>
                 <div class="ak-height-150 ak-height-lg-60"></div>
                 <div class="container">
                     <div class="ak-section-heading ak-style-1 ak-type-1">
-                        <div class="ak-section-subtitle">Extra Features</div>
-                        <h2 class="ak-section-title anim-title">Why Choose Us</h2>
+                        <div class="ak-section-subtitle">Facilities</div>
+                        <h2 class="ak-section-title anim-title" style="overflow: hidden;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">R</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">s</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">o</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">r</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">t</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">F</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">a</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">c</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">l</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">t</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">s</div></div></h2>
                     </div>
                     <div class="ak-height-65 ak-height-lg-30"></div>
                 </div>
                 <div class="container">
-                    <div class="row gap-md-0 gap-1">
-                        <div class="col-md-6 border-right-1 pb-3">
-                            <div class="feature-card">
+                    <div class="row">
+                        <div class="col-lg-4 border-right-1 border-1-lg-none">
+                            <div class="feature-card  style-2">
                                 <div class="feature-date">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="76" height="77" viewBox="0 0 76 77"
-                                        fill="none">
-                                        <path
-                                            d="M49.1598 46.8053C46.0536 44.0443 42.0422 42.5193 37.8864 42.5193C33.7305 42.5193 29.7191 44.0443 26.6129 46.8053M58.1682 37.7968C52.6669 32.6527 45.4166 29.791 37.8849 29.791C30.3532 29.791 23.1029 32.6527 17.6016 37.7968"
-                                            stroke="#FFD28D" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path
-                                            d="M66.1744 27.8471C58.3882 20.9012 48.3187 17.0625 37.8846 17.0625C27.4504 17.0625 17.3809 20.9012 9.59473 27.8471"
-                                            stroke="#FFD28D" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path
-                                            d="M37.8849 62.3597C36.9511 62.3597 36.0381 62.0828 35.2616 61.564C34.4851 61.0451 33.8799 60.3077 33.5225 59.4449C33.1651 58.582 33.0716 57.6326 33.2538 56.7167C33.436 55.8007 33.8857 54.9594 34.5461 54.299C35.2065 53.6387 36.0478 53.1889 36.9638 53.0067C37.8797 52.8246 38.8291 52.9181 39.6919 53.2754C40.5547 53.6328 41.2922 54.238 41.811 55.0146C42.3299 55.7911 42.6068 56.704 42.6068 57.6379C42.6068 58.8902 42.1093 60.0912 41.2238 60.9767C40.3383 61.8623 39.1373 62.3597 37.8849 62.3597Z"
-                                            fill="#FFD28D" />
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
+                                        <path d="M28.3957 26.8665C26.6337 25.3003 24.3581 24.4352 22.0006 24.4352C19.6431 24.4352 17.3676 25.3003 15.6055 26.8665M33.5059 21.7563C30.3852 18.8382 26.2723 17.2148 21.9998 17.2148C17.7273 17.2148 13.6144 18.8382 10.4937 21.7563" stroke="#FFD28D" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M38.0476 16.1119C33.6308 12.1717 27.9186 9.99414 21.9997 9.99414C16.0807 9.99414 10.3685 12.1717 5.95166 16.1119" stroke="#FFD28D" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M21.9999 35.6892C21.4701 35.6892 20.9522 35.5321 20.5117 35.2378C20.0712 34.9434 19.7279 34.5251 19.5252 34.0356C19.3224 33.5462 19.2694 33.0076 19.3728 32.488C19.4761 31.9684 19.7312 31.4912 20.1058 31.1166C20.4804 30.742 20.9577 30.4869 21.4773 30.3835C21.9969 30.2801 22.5355 30.3332 23.0249 30.5359C23.5144 30.7387 23.9327 31.082 24.227 31.5225C24.5213 31.963 24.6784 32.4808 24.6784 33.0106C24.6784 33.721 24.3962 34.4023 23.8939 34.9046C23.3916 35.407 22.7103 35.6892 21.9999 35.6892Z" fill="#FFD28D"></path>
                                     </svg>
                                 </div>
                                 <div class="feature-text">
-                                    <h4><span>01 / </span>Free Wi-Fi Connection</h4>
-                                    <p>Fast and reliable internet access available throughout the venue.
+                                    <h4><span>01 / </span> Wi-Fi Connection</h4>
+                                    <p class="feature-text-details">Contrary to popular belief, Lorem Ipsum is not
+                                        simply random text. It has roots in a piece of classical Latin literature.
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 pb-3">
-                            <div class="feature-card">
+                        <div class="col-lg-4 border-right-1 border-1-lg-none">
+                            <div class="feature-card  style-2">
                                 <div class="feature-date">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="77" height="77" viewBox="0 0 77 77"
-                                        fill="none">
-                                        <path
-                                            d="M47.2937 40.5682H45.6574C44.6929 40.5682 43.768 40.1851 43.0861 39.5031C42.4041 38.8212 42.021 37.8962 42.021 36.9318C42.021 37.8962 41.6379 38.8212 40.9559 39.5031C40.274 40.1851 39.3491 40.5682 38.3846 40.5682C37.4202 40.5682 36.4953 40.1851 35.8133 39.5031C35.1314 38.8212 34.7483 37.8962 34.7483 36.9318C34.7483 37.8962 34.3652 38.8212 33.6832 39.5031C33.0013 40.1851 32.0763 40.5682 31.1119 40.5682H29.4755M26.5665 24.2045H32.021M32.4155 55.1136H44.3537C45.5872 55.1136 46.8004 55.4274 47.8793 56.0253C48.9582 56.6233 49.8672 57.4858 50.521 58.5318L50.6574 58.75H54.7483V18.75H22.021V58.75H26.1119L26.2483 58.5318C26.902 57.4858 27.8111 56.6233 28.8899 56.0253C29.9688 55.4274 31.182 55.1136 32.4155 55.1136ZM38.3846 47.8409C35.9736 47.8409 33.6613 46.8831 31.9564 45.1782C30.2515 43.4734 29.2937 41.1611 29.2937 38.75C29.2937 36.3389 30.2515 34.0266 31.9564 32.3218C33.6613 30.6169 35.9736 29.6591 38.3846 29.6591C40.7957 29.6591 43.108 30.6169 44.8129 32.3218C46.5178 34.0266 47.4755 36.3389 47.4755 38.75C47.4755 41.1611 46.5178 43.4734 44.8129 45.1782C43.108 46.8831 40.7957 47.8409 38.3846 47.8409Z"
-                                            stroke="#FFD28D" />
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="61" height="61" viewBox="0 0 61 61" fill="none">
+                                        <circle cx="30.0161" cy="30.2969" r="29.6985" stroke="#FFD28D" stroke-opacity="0.3" stroke-width="0.603092"></circle>
+                                        <path d="M36.8217 31.6862H35.5717C34.835 31.6862 34.1284 31.3935 33.6075 30.8726C33.0865 30.3517 32.7939 29.6451 32.7939 28.9084C32.7939 29.6451 32.5012 30.3517 31.9803 30.8726C31.4594 31.3935 30.7528 31.6862 30.0161 31.6862C29.2794 31.6862 28.5729 31.3935 28.0519 30.8726C27.531 30.3517 27.2383 29.6451 27.2383 28.9084C27.2383 29.6451 26.9457 30.3517 26.4247 30.8726C25.9038 31.3935 25.1973 31.6862 24.4606 31.6862H23.2106M20.9883 19.1862H25.155M25.4564 42.7973H34.5758C35.5181 42.7973 36.4449 43.037 37.269 43.4937C38.0931 43.9505 38.7876 44.6094 39.2869 45.4084L39.3911 45.5751H42.5161V15.0195H17.5161V45.5751H20.6411L20.7453 45.4084C21.2447 44.6094 21.9391 43.9505 22.7632 43.4937C23.5874 43.037 24.5141 42.7973 25.4564 42.7973ZM30.0161 37.2418C28.1743 37.2418 26.408 36.5101 25.1056 35.2078C23.8033 33.9054 23.0717 32.1391 23.0717 30.2973C23.0717 28.4555 23.8033 26.6892 25.1056 25.3868C26.408 24.0845 28.1743 23.3529 30.0161 23.3529C31.8579 23.3529 33.6242 24.0845 34.9266 25.3868C36.2289 26.6892 36.9606 28.4555 36.9606 30.2973C36.9606 32.1391 36.2289 33.9054 34.9266 35.2078C33.6242 36.5101 31.8579 37.2418 30.0161 37.2418Z" stroke="#FFD28D"></path>
                                     </svg>
                                 </div>
                                 <div class="feature-text">
-                                    <h4><span>02 / </span> Bridal & Groom Luxury Suites</h4>
-                                    <p>Private fully furnished rooms for the bride and groom to relax and get ready comfortably.
+                                    <h4><span>02 / </span> Laundry Services</h4>
+                                    <p class="feature-text-details">Contrary to popular belief, Lorem Ipsum is not
+                                        simply random text. It has roots in a piece of classical Latin literature.
                                     </p>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="border-bottom-1"></div>
-                <div class="container">
-                    <div class="row  gap-md-0 gap-1">
-                        <div class="col-md-6 border-right-1 pt-3">
-                            <div class="feature-card">
+                        <div class="col-lg-4">
+                            <div class="feature-card  style-2">
                                 <div class="feature-date">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="73" height="73" viewBox="0 0 73 73"
-                                        fill="none">
-                                        <path
-                                            d="M17.2451 62.3031C19.7321 56.4981 21.2771 54.1461 29.1011 48.9696C31.1906 43.2201 35.1551 40.0566 38.5421 37.4016C40.1381 31.0596 40.3571 24.3006 39.1181 21.5586C38.8031 23.3376 36.3371 25.5591 33.3731 27.1041C34.6496 30.1416 36.8711 32.8971 39.2501 34.0746"
-                                            stroke="#FFD28D" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path
-                                            d="M53.4852 62.6624C52.3077 55.8164 51.0102 51.3479 55.7667 47.7434C49.5687 48.6809 45.3882 42.4829 45.3882 42.4829C39.6957 45.7259 35.8032 49.6169 31.7682 51.5639C25.5687 59.4914 23.4432 58.9874 17.2452 62.3024M17.2452 62.3024C17.2452 62.3024 17.7852 64.4999 17.6172 65.6894H13.3647C14.7222 64.6439 16.3077 64.2839 17.2452 62.3024ZM39.2502 34.0739C35.9352 33.5219 31.8627 31.0229 29.8932 28.5014M53.3142 20.4434C54.1077 27.2429 49.0167 29.9894 49.4967 35.7554"
-                                            stroke="#FFD28D" stroke-linecap="round" stroke-linejoin="round" />
-                                        <path
-                                            d="M48.0041 15.2387C47.3891 15.8447 46.7471 16.2527 45.5171 16.2527C44.2871 16.2527 44.0246 13.4927 44.0531 12.0827C44.0816 10.6727 44.2511 7.22267 48.0506 7.18967C50.5781 7.16717 51.2261 8.86067 50.9741 11.9597C50.7221 15.0587 50.6246 16.5332 51.5141 17.6177C53.7491 17.1617 55.0466 18.2177 56.0066 19.6127C56.9666 21.0077 57.9536 24.4877 60.2366 27.4922C60.4511 33.6182 58.7216 36.7412 54.5411 39.1922C56.9441 36.9332 57.5921 32.0567 57.2801 29.0522C57.2801 29.0522 53.3396 26.0507 53.2886 23.9897M49.4966 35.7557C53.9651 38.3747 56.4701 41.1857 60.2531 45.0767C61.4426 51.0587 55.2866 50.8667 53.4851 62.6627M53.4851 62.6627C54.9746 63.6722 56.1746 65.2817 59.2976 65.6897H51.2276C51.0341 64.1282 53.4851 62.6627 53.4851 62.6627ZM42.9386 17.6447C42.9386 17.6447 40.3511 18.4097 39.1391 18.9152C35.5691 20.4032 32.2961 23.0717 29.8931 28.5002"
-                                            stroke="#FFD28D" stroke-linecap="round" stroke-linejoin="round" />
-                                    </svg>
-                                </div>
-                                <div class="feature-text">
-                                    <h4><span>03 / </span>Valet Parking Service</h4>
-                                    <p>Professional valet team for smooth vehicle handling during large events.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 pt-3">
-                            <div class="feature-card">
-                                <div class="feature-date">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="76" height="76" viewBox="0 0 76 76"
-                                        fill="none">
-                                        <g clip-path="url(#clip0_1372_238)">
-                                            <path
-                                                d="M21.9455 45.4823C21.9455 48.7249 19.3169 51.3535 16.0742 51.3535C12.8318 51.3535 10.2031 48.7249 10.2031 45.4823C10.2031 42.2397 12.8318 39.611 16.0742 39.611C19.3169 39.611 21.9455 42.2397 21.9455 45.4823Z"
-                                                stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round"
-                                                stroke-linejoin="round" />
-                                            <path d="M21.9453 47.832H55.9982" stroke="#FFD28D" stroke-miterlimit="10"
-                                                stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M16.9047 44.652L15.2441 46.3125" stroke="#FFD28D"
-                                                stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path
-                                                d="M67.7409 45.4823C67.7409 48.7249 65.1124 51.3535 61.8696 51.3535C58.6272 51.3535 55.9985 48.7249 55.9985 45.4823C55.9985 42.2397 58.6272 39.611 61.8696 39.611C65.1124 39.611 67.7409 42.2397 67.7409 45.4823Z"
-                                                stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round"
-                                                stroke-linejoin="round" />
-                                            <path d="M61.0391 44.652L62.6996 46.3125" stroke="#FFD28D"
-                                                stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path
-                                                d="M10.2031 46.6578L4.53838 45.0393C3.02607 44.6072 1.9834 43.225 1.9834 41.6521V34.6401C1.9834 33.4558 2.86538 32.4567 4.04062 32.3098L8.38359 31.7669C10.3649 31.5192 12.2899 30.9365 14.0758 30.0434L19.6485 27.2571C21.9312 26.1157 24.4484 25.5216 27.0004 25.5216H37.4622C40.3655 25.5216 43.2083 26.3495 45.6577 27.9081L54.8241 33.7413C54.8241 33.7413 65.4684 33.7413 72.109 36.8251C73.7534 37.5888 74.7861 39.2574 74.7861 41.0708V44.969C74.7861 46.7867 73.7347 47.832 72.4377 47.832"
-                                                stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round"
-                                                stroke-linejoin="round" />
-                                            <path
-                                                d="M24.2939 33.7402H22.029C20.4718 33.7402 18.9784 33.1216 17.8773 32.0205L16.0742 30.2176"
-                                                stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round"
-                                                stroke-linejoin="round" />
-                                            <path d="M54.8238 33.7402H28.9907" stroke="#FFD28D" stroke-miterlimit="10"
-                                                stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M26.6426 43.1348H51.3015" stroke="#FFD28D" stroke-miterlimit="10"
-                                                stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M1.9834 37.2637H4.33184" stroke="#FFD28D" stroke-miterlimit="10"
-                                                stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M71.2637 39.6113H74.1014" stroke="#FFD28D" stroke-miterlimit="10"
-                                                stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M33.688 33.7402V25.5206" stroke="#FFD28D" stroke-miterlimit="10"
-                                                stroke-linecap="round" stroke-linejoin="round" />
-                                            <path d="M20.1841 33.2637L21.7128 26.511" stroke="#FFD28D"
-                                                stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+                                        <g clip-path="url(#clip0_1372_340)">
+                                            <path d="M15.3876 16.5515H10.3904C10.2124 16.5515 10.0681 16.6958 10.0681 16.8738V21.5487H5.39304C5.21509 21.5487 5.07078 21.6931 5.07078 21.871V31.8655C5.07078 32.0435 5.21509 32.1878 5.39304 32.1878H15.3876C15.5656 32.1878 15.7099 32.0435 15.7099 31.8655V16.8738C15.7099 16.6958 15.5656 16.5515 15.3876 16.5515ZM12.4806 17.196H13.2972V17.9771L13.0335 17.8447C12.9426 17.7991 12.8354 17.7991 12.7444 17.8447L12.4806 17.9771V17.196ZM11.8361 17.196V18.4994C11.8361 18.6112 11.894 18.7149 11.9892 18.7737C12.0844 18.8324 12.2031 18.8376 12.3029 18.7874L12.889 18.4933L13.4749 18.7874C13.5206 18.8103 13.5701 18.8217 13.6195 18.8217C13.6784 18.8217 13.737 18.8056 13.7887 18.7737C13.8838 18.7149 13.9418 18.6112 13.9418 18.4994V17.196H15.0653V21.5487H10.7126V17.196H11.8362H11.8361ZM12.4806 27.1905H13.2972V27.9716L13.0335 27.8392C12.9425 27.7935 12.8354 27.7935 12.7444 27.8392L12.4806 27.9716V27.1905ZM10.7126 26.546V22.1933H11.8361V23.4967C11.8361 23.6084 11.894 23.7122 11.9892 23.7709C12.0409 23.8028 12.0996 23.8189 12.1584 23.8189C12.2078 23.8189 12.2573 23.8076 12.3029 23.7847L12.8889 23.4907L13.4749 23.7847C13.5748 23.8348 13.6936 23.8296 13.7886 23.7709C13.8838 23.7122 13.9417 23.6084 13.9417 23.4967V22.1933H15.0653V26.546H10.7126ZM12.4806 22.1933H13.2972V22.9743L13.0335 22.842C12.9425 22.7963 12.8354 22.7963 12.7444 22.842L12.4806 22.9744V22.1933ZM7.48339 22.1933H8.29994V22.9743L8.03627 22.842C7.94526 22.7963 7.83814 22.7963 7.74719 22.842L7.48339 22.9744V22.1933ZM6.83886 22.1933V23.4967C6.83886 23.6084 6.89673 23.7122 6.99193 23.7709C7.04362 23.8028 7.10234 23.8189 7.16112 23.8189C7.21056 23.8189 7.26006 23.8076 7.30562 23.7847L7.8917 23.4907L8.47764 23.7847C8.57754 23.8348 8.69633 23.8296 8.7914 23.7709C8.88653 23.7122 8.94447 23.6084 8.94447 23.4967V22.1933H10.068V26.546H5.71531V22.1933H6.83886ZM7.48339 27.1905H8.29994V27.9716L8.03627 27.8392C7.94526 27.7935 7.83814 27.7935 7.74719 27.8392L7.48339 27.9716V27.1905ZM5.71531 27.1905H6.83886V28.4939C6.83886 28.6057 6.89673 28.7095 6.99193 28.7681C7.04362 28.8001 7.10234 28.8162 7.16112 28.8162C7.21056 28.8162 7.26006 28.8048 7.30562 28.7819L7.8917 28.4879L8.47764 28.7819C8.57754 28.8321 8.69633 28.8268 8.7914 28.7681C8.88653 28.7095 8.94447 28.6057 8.94447 28.4939V27.1905H10.068V31.5432H5.71531V27.1905ZM10.7126 31.5432V27.1905H11.8361V28.4939C11.8361 28.6057 11.894 28.7095 11.9892 28.7681C12.0409 28.8001 12.0996 28.8162 12.1584 28.8162C12.2078 28.8162 12.2573 28.8048 12.3029 28.7819L12.8889 28.4879L13.4749 28.7819C13.5748 28.8321 13.6936 28.8268 13.7886 28.7681C13.8838 28.7095 13.9417 28.6057 13.9417 28.4939V27.1905H15.0653V31.5432H10.7126ZM31.8465 15.0648C32.2929 15.0648 32.656 14.7016 32.656 14.2551V9.25141C32.656 8.80495 32.2929 8.44175 31.8465 8.44175H31.4772L16.6639 2.42989C16.5862 2.39837 16.4992 2.39837 16.4215 2.42989L1.60829 8.44175H1.23897C0.792572 8.44175 0.429443 8.80495 0.429443 9.25141V14.2551C0.429443 14.7016 0.792572 15.0648 1.23897 15.0648H1.34893V31.8656C1.34893 32.0436 1.49324 32.1878 1.6712 32.1878H3.62522C3.80318 32.1878 3.94749 32.0436 3.94749 31.8656V15.0648H29.138V17.0036C27.9896 16.2787 26.6305 15.8586 25.1751 15.8586C21.0696 15.8586 17.7296 19.1986 17.7296 23.3041C17.7296 27.4095 21.0696 30.7496 25.1751 30.7496C26.6305 30.7496 27.9896 30.3294 29.138 29.6045V31.8656C29.138 32.0437 29.2823 32.1879 29.4602 32.1879H31.4143C31.5922 32.1879 31.7365 32.0437 31.7365 31.8656V26.82C32.3002 25.7722 32.6205 24.575 32.6205 23.3041C32.6205 22.0333 32.3002 20.836 31.7365 19.7883V15.0648H31.8465V15.0648ZM16.5427 3.07629L29.7633 8.44175H3.32216L16.5427 3.07629ZM1.07397 14.2551V9.25141C1.07397 9.16189 1.14951 9.08629 1.23897 9.08629H31.8465C31.9359 9.08629 32.0115 9.16189 32.0115 9.25141V14.2551C32.0115 14.3446 31.9359 14.4202 31.8465 14.4202H1.23897C1.14951 14.4202 1.07397 14.3446 1.07397 14.2551ZM3.30296 31.5433H1.99346V15.0648H3.30296V31.5433ZM31.092 31.5433H29.7825V29.1486C30.2725 28.7615 30.7126 28.314 31.092 27.8178V31.5433ZM25.1751 30.105C21.425 30.105 18.3741 27.0541 18.3741 23.3041C18.3741 19.554 21.425 16.5031 25.1751 16.5031C28.9251 16.5031 31.976 19.554 31.976 23.3041C31.976 27.0541 28.9251 30.105 25.1751 30.105ZM31.092 18.7903C30.7126 18.2941 30.2725 17.8466 29.7825 17.4595V15.0648H31.092V18.7903ZM20.8876 10.6513H12.1978C12.0199 10.6513 11.8755 10.7956 11.8755 10.9735V12.5331C11.8755 12.7111 12.0199 12.8554 12.1978 12.8554H20.8876C21.0656 12.8554 21.2099 12.7111 21.2099 12.5331V10.9735C21.2099 10.7956 21.0656 10.6513 20.8876 10.6513ZM20.5654 12.2108H12.5201V11.2958H20.5654V12.2108ZM28.5398 18.2711H24.4383C24.2603 18.2711 24.116 18.4154 24.116 18.5934V22.3726H23.758C23.58 22.3726 23.4357 22.5168 23.4357 22.6949V26.7964C23.4357 26.851 23.4506 26.9016 23.4746 26.9467C23.3751 26.8637 23.2597 26.7994 23.134 26.758V20.8057C23.134 20.163 22.6111 19.6402 21.9684 19.6402H21.1756C20.9976 19.6402 20.8533 19.7845 20.8533 19.9624C20.8533 20.1404 20.9976 20.2847 21.1756 20.2847H21.9684C22.2557 20.2847 22.4894 20.5184 22.4894 20.8057V26.758C22.0753 26.894 21.7751 27.2837 21.7751 27.7427C21.7751 28.3142 22.2401 28.7792 22.8117 28.7792C23.2707 28.7792 23.6603 28.4791 23.7963 28.065H28.177C28.3549 28.065 28.4992 27.9207 28.4992 27.7427C28.4992 27.5647 28.3549 27.4204 28.177 27.4204H23.7963C23.755 27.2946 23.6906 27.1793 23.6076 27.0798C23.6527 27.1038 23.7033 27.1187 23.758 27.1187H27.8595C28.0374 27.1187 28.1817 26.9744 28.1817 26.7964V23.0171H28.5398C28.7177 23.0171 28.862 22.8729 28.862 22.6949V18.5934C28.862 18.4154 28.7177 18.2711 28.5398 18.2711ZM22.8116 28.1347C22.5955 28.1347 22.4196 27.9588 22.4196 27.7427C22.4196 27.5266 22.5955 27.3506 22.8116 27.3506C23.0278 27.3506 23.2037 27.5265 23.2037 27.7427C23.2037 27.9589 23.0278 28.1347 22.8116 28.1347ZM26.2117 18.9156H26.7663V19.4053L26.6335 19.3387C26.5426 19.293 26.4354 19.293 26.3444 19.3387L26.2116 19.4053V18.9156H26.2117ZM27.5371 26.4741H24.0802V23.0171H24.8868V24.0291C24.8868 24.1409 24.9448 24.2447 25.0399 24.3033C25.1351 24.3621 25.2538 24.3672 25.3537 24.3171L25.8087 24.0888L26.2637 24.3171C26.3094 24.34 26.3589 24.3514 26.4083 24.3514C26.4672 24.3514 26.5258 24.3353 26.5775 24.3033C26.6726 24.2447 26.7306 24.1409 26.7306 24.0291V23.0171H27.5372V26.4741H27.5371ZM25.5313 23.0171H26.0859V23.5068L25.9531 23.4402C25.8622 23.3945 25.755 23.3945 25.6641 23.4402L25.5313 23.5068V23.0171ZM28.2174 22.3726H24.7605V18.9156H25.5671V19.9276C25.5671 20.0394 25.6251 20.1432 25.7202 20.2019C25.8154 20.2607 25.9341 20.2659 26.034 20.2157L26.4891 19.9873L26.9441 20.2157C26.9897 20.2385 27.0392 20.2499 27.0887 20.2499C27.1475 20.2499 27.2062 20.2338 27.2579 20.2019C27.353 20.1432 27.4109 20.0394 27.4109 19.9276V18.9156H28.2176V22.3726H28.2174Z" fill="#FFD28D"></path>
                                         </g>
                                         <defs>
-                                            <clipPath id="clip0_1372_62383">
-                                                <rect width="75" height="75" fill="white"
-                                                    transform="translate(0.884766 0.9375)" />
+                                            <clipPath id="clip0_1372_340">
+                                                <rect width="33" height="33" fill="white" transform="translate(0.0427246 0.796875)"></rect>
                                             </clipPath>
                                         </defs>
                                     </svg>
                                 </div>
                                 <div class="feature-text">
-                                    <h4><span>04 / </span>Airport Pickup Assistance</h4>
-                                    <p>Assistance with pickup, drop, and smooth transportation arrangements for guests.
+                                    <h4><span>02 / </span> Laundry Services</h4>
+                                    <p class="feature-text-details">Contrary to popular belief, Lorem Ipsum is not
+                                        simply random text. It has roots in a piece of classical Latin literature.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="border-bottom-1 border-1-lg-none"></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4 border-right-1 border-1-lg-none">
+                            <div class="feature-card style-2">
+                                <div class="feature-date type_2">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42" fill="none">
+                                        <path d="M9.85889 35.6581C11.2697 32.3651 12.1461 31.0308 16.5844 28.0944C17.7698 24.8329 20.0187 23.0383 21.94 21.5322C22.8454 17.9346 22.9696 14.1004 22.2668 12.5449C22.0881 13.5541 20.6892 14.8143 19.0078 15.6907C19.7319 17.4138 20.9921 18.9769 22.3417 19.6449" stroke="#FFD28D" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M30.4169 35.8617C29.7489 31.9782 29.0129 29.4433 31.7111 27.3986C28.1952 27.9304 25.8237 24.4145 25.8237 24.4145C22.5945 26.2541 20.3864 28.4614 18.0975 29.5658C14.5807 34.0629 13.3749 33.777 9.85901 35.6575M9.85901 35.6575C9.85901 35.6575 10.1653 36.9041 10.07 37.5788H7.65771C8.42778 36.9857 9.32719 36.7815 9.85901 35.6575ZM22.3418 19.6443C20.4613 19.3312 18.1511 17.9135 17.0338 16.4832M30.3199 11.9121C30.77 15.7693 27.882 17.3273 28.1543 20.5982" stroke="#FFD28D" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="M27.3075 8.95866C26.9587 9.30243 26.5945 9.53388 25.8967 9.53388C25.199 9.53388 25.0501 7.96821 25.0662 7.16836C25.0824 6.36851 25.1786 4.41142 27.3339 4.3927C28.7677 4.37994 29.1353 5.34061 28.9923 7.09858C28.8494 8.85655 28.7941 9.69299 29.2986 10.3082C30.5665 10.0495 31.3025 10.6486 31.8471 11.4399C32.3917 12.2312 32.9516 14.2053 34.2467 15.9097C34.3683 19.3848 33.3872 21.1564 31.0158 22.5468C32.3789 21.2653 32.7465 18.499 32.5695 16.7947C32.5695 16.7947 30.3342 15.092 30.3053 13.9228M28.1542 20.5974C30.689 22.083 32.11 23.6776 34.256 25.8849C34.9308 29.2783 31.4387 29.1694 30.4167 35.8609M30.4167 35.8609C31.2617 36.4336 31.9424 37.3466 33.714 37.578H29.1361C29.0264 36.6922 30.4167 35.8609 30.4167 35.8609ZM24.434 10.3235C24.434 10.3235 22.9662 10.7575 22.2787 11.0442C20.2535 11.8883 18.3968 13.4021 17.0337 16.4815" stroke="#FFD28D" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </svg>
+                                </div>
+                                <div class="feature-text type_2">
+                                    <h4><span>03 / </span>Fitness Center</h4>
+                                    <p class="feature-text-details">Contrary to popular belief, Lorem Ipsum is not
+                                        simply random text. It has roots in a piece of classical Latin literature.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 border-right-1 border-1-lg-none">
+                            <div class="feature-card style-2">
+                                <div class="feature-date">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41" fill="none">
+                                        <g clip-path="url(#clip0_1372_310)">
+                                            <path d="M11.6049 24.7437C11.6049 26.473 10.203 27.875 8.47354 27.875C6.74424 27.875 5.34229 26.473 5.34229 24.7437C5.34229 23.0143 6.74424 21.6123 8.47354 21.6123C10.203 21.6123 11.6049 23.0143 11.6049 24.7437Z" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <path d="M11.605 25.9961H29.7665" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <path d="M8.91639 24.3019L8.03076 25.1875" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <path d="M36.0289 24.7437C36.0289 26.473 34.6271 27.875 32.8976 27.875C31.1683 27.875 29.7664 26.473 29.7664 24.7437C29.7664 23.0143 31.1683 21.6123 32.8976 21.6123C34.6271 21.6123 36.0289 23.0143 36.0289 24.7437Z" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <path d="M32.4548 24.3019L33.3405 25.1875" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <path d="M5.34232 25.3698L2.32115 24.5066C1.51459 24.2762 0.958496 23.539 0.958496 22.7002V18.9604C0.958496 18.3288 1.42889 17.7959 2.05568 17.7176L4.37193 17.428C5.42865 17.2959 6.45529 16.9852 7.40779 16.5088L10.3799 15.0228C11.5973 14.4141 12.9398 14.0972 14.3009 14.0972H19.8805C21.429 14.0972 22.9451 14.5387 24.2515 15.37L29.1402 18.481C29.1402 18.481 34.8172 18.481 38.3588 20.1257C39.2358 20.533 39.7866 21.423 39.7866 22.3901V24.4691C39.7866 25.4386 39.2258 25.9961 38.5341 25.9961" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <path d="M12.8575 18.4805H11.6495C10.819 18.4805 10.0225 18.1505 9.43527 17.5633L8.47363 16.6017" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <path d="M29.1402 18.4805H15.3625" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <path d="M14.1099 23.4922H27.2613" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <path d="M0.958496 20.3594H2.211" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <path d="M37.908 21.6133H39.4214" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <path d="M17.8674 18.4805V14.0966" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            <path d="M10.6655 18.2266L11.4808 14.6252" stroke="#FFD28D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_1372_310">
+                                                <rect width="40" height="40" fill="white" transform="translate(0.372559 0.986328)"></rect>
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                </div>
+                                <div class="feature-text">
+                                    <h4><span>04 / </span>Limousine Services</h4>
+                                    <p class="feature-text-details">Contrary to popular belief, Lorem Ipsum is not
+                                        simply random text. It has roots in a piece of classical Latin literature.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="feature-card style-2">
+                                <div class="feature-date">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+                                        <path d="M33.5 25.5V24H34C34.5523 24 35 23.5523 35 23V22.5C35 21.3954 34.1045 20.5 33 20.5H29.755C29.1102 19.2713 27.8376 18.5012 26.45 18.5H20.95C19.8901 18.447 18.857 18.8433 18.1045 19.5915C18.0235 19.5305 17.943 19.4685 17.868 19.403C16.3662 18.143 14.4601 17.4673 12.5 17.5H10.5V8.50002C10.5 8.22388 10.7239 8.00002 11 8.00002H13.67C13.8042 7.99972 13.9329 8.05384 14.0265 8.15002L14.737 8.86052C14.261 9.47227 14.0017 10.2249 14 11C14 11.5523 14.4477 12 15 12H20C20.5111 11.9942 20.9388 11.6105 21 11.103C21.0268 9.31649 19.7245 7.78718 17.9565 7.52902C17.845 7.51502 17.7335 7.50802 17.622 7.50452L16.15 6.02652C15.4938 5.36659 14.6006 4.99691 13.67 5.00002H11C9.06791 5.00222 7.5022 6.56794 7.5 8.50002V17.5H7C5.89543 17.5 5 18.3954 5 19.5V20C5 20.5523 5.44771 21 6 21H6.5V25.5C6.50223 27.7151 7.63304 29.7764 9.5 30.9685V32H9C8.17157 32 7.5 32.6716 7.5 33.5V34H5.5C5.22386 34 5 34.2239 5 34.5C5 34.7761 5.22386 35 5.5 35H34.5C34.7761 35 35 34.7761 35 34.5C35 34.2239 34.7761 34 34.5 34H32.5V33.5C32.5 32.6716 31.8284 32 31 32H30.5V30.9685C32.3669 29.7764 33.4977 27.7151 33.5 25.5ZM34 22.5V23H30.2V22.25C30.1999 21.9981 30.1743 21.7468 30.1235 21.5H33C33.5523 21.5 34 21.9477 34 22.5ZM28.9885 21.1915C29.1282 21.5269 29.2001 21.8867 29.2 22.25V28C29.2 28.2761 28.9761 28.5 28.7 28.5H25C24.7238 28.5 24.5 28.2761 24.5 28V22.25C24.5006 21.2055 24.0642 20.2083 23.2965 19.5H26.45C27.56 19.4999 28.5612 20.167 28.9885 21.1915ZM22.5 22.25C22.5017 22.0194 22.4563 21.7909 22.3665 21.5785C22.0976 20.9269 21.4629 20.5013 20.758 20.5C20.156 20.4928 19.5618 20.3631 19.0115 20.119C19.8343 19.4477 20.9701 19.3101 21.9294 19.7655C22.8887 20.221 23.5001 21.1881 23.5 22.25V28C23.5016 28.1707 23.5328 28.3399 23.592 28.5H23C22.7238 28.5 22.5 28.2761 22.5 28V22.25ZM20 11H15C15 9.6193 16.1193 8.50002 17.5 8.50002C18.8807 8.50002 20 9.6193 20 11ZM8.5 8.50002C8.50165 7.11999 9.61997 6.00167 11 6.00002H13.67C14.3345 5.99803 14.9722 6.26198 15.441 6.73302L16.391 7.68552C16.0567 7.79658 15.7411 7.95757 15.455 8.16302L14.7335 7.44152C14.4523 7.15811 14.0693 6.99911 13.67 7.00002H11C10.1716 7.00002 9.5 7.67159 9.5 8.50002V17.5H8.5V8.50002ZM6 19.5C6 18.9477 6.44771 18.5 7 18.5H12.5C14.2185 18.4674 15.8911 19.0555 17.211 20.1565C18.1433 20.963 19.3188 21.434 20.55 21.4945C20.7958 21.4727 21.0413 21.5391 21.2425 21.682C21.4063 21.8253 21.5001 22.0324 21.5 22.25V23H21C19.2811 23.031 17.6085 22.4427 16.2875 21.3425C15.2906 20.4773 14.015 20.0006 12.695 20H6V19.5ZM7.5 25.5V21H12.695C13.7738 21.0005 14.8163 21.3898 15.6315 22.0965C17.1338 23.356 19.0398 24.0318 21 24H21.5V28C21.5 28.8284 22.1716 29.5 23 29.5H28.7C29.5284 29.5 30.2 28.8284 30.2 28V24H32.5V25.5C32.4964 28.5361 30.0361 30.9964 27 31H13C9.96391 30.9964 7.50358 28.5361 7.5 25.5ZM14.091 32H25.909C26.526 32.4895 26.9103 33.2146 26.969 34H13.0305C13.0896 33.2146 13.4741 32.4896 14.091 32ZM8.5 34V33.5C8.5 33.2239 8.72385 33 9 33H10C10.2761 33 10.5 32.7761 10.5 32.5V31.5C11.2103 31.7946 11.9675 31.9598 12.736 31.988C12.3222 32.5825 12.0766 33.2776 12.025 34H8.5ZM30 33H31C31.2761 33 31.5 33.2239 31.5 33.5V34H27.9775C27.9247 33.277 27.6782 32.5814 27.264 31.9865C28.0323 31.9588 28.7896 31.7941 29.5 31.5V32.5C29.5 32.7761 29.7238 33 30 33Z" fill="#FFD28D"></path>
+                                        <path d="M13.4995 29.5059C13.4995 29.2297 13.2757 29.0059 12.9995 29.0059C11.0674 29.0037 9.50172 27.4379 9.49951 25.5059C9.49951 25.2297 9.27565 25.0059 8.99951 25.0059C8.72337 25.0059 8.49951 25.2297 8.49951 25.5059C8.50227 27.99 10.5154 30.0031 12.9995 30.0059C13.2757 30.0059 13.4995 29.782 13.4995 29.5059Z" fill="#FFD28D"></path>
+                                        <path d="M17.0007 13.498V15.998C17.0007 16.2742 17.2246 16.498 17.5007 16.498C17.7769 16.498 18.0007 16.2742 18.0007 15.998V13.498C18.0007 13.2219 17.7769 12.998 17.5007 12.998C17.2246 12.998 17.0007 13.2219 17.0007 13.498Z" fill="#FFD28D"></path>
+                                        <path d="M15.0372 13.3125L14.0372 15.8125C13.9345 16.0691 14.0592 16.3603 14.3157 16.463C14.5722 16.5658 14.8635 16.4411 14.9662 16.1845L15.9662 13.6845C16.0689 13.428 15.9442 13.1368 15.6877 13.034C15.4312 12.9313 15.1399 13.056 15.0372 13.3125Z" fill="#FFD28D"></path>
+                                        <path d="M19.9633 13.3125C19.8606 13.056 19.5693 12.9313 19.3128 13.034C19.0562 13.1368 18.9316 13.428 19.0343 13.6845L20.0343 16.1845C20.1007 16.3505 20.2507 16.4684 20.4276 16.4938C20.6046 16.5192 20.7816 16.4483 20.8921 16.3078C21.0026 16.1673 21.0297 15.9785 20.9633 15.8125L19.9633 13.3125Z" fill="#FFD28D"></path>
+                                    </svg>
+                                </div>
+                                <div class="feature-text">
+                                    <h4><span>03 / </span>Fitness Center</h4>
+                                    <p class="feature-text-details">Contrary to popular belief, Lorem Ipsum is not
+                                        simply random text. It has roots in a piece of classical Latin literature.
                                     </p>
                                 </div>
                             </div>
@@ -835,7 +814,7 @@
                     </div>
                 </div>
             </section>
-            <!-- End Why Choose Us -->
+          
 
 
             <!-- Start gellary -->

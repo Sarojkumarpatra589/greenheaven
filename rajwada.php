@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+
+<!-- Mirrored from elegencia-html.vercel.app/index-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 19 Feb 2026 13:27:12 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <!-- Meta Tags -->
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Thememarch" />
+    <!-- Favicon Icon -->
+    <link rel="icon" href="assets/upload/favicon.png" />
+    <!-- Site Title -->
+    <title>Green Heaven Resort - Where Nature Meets Luxury</title>
+    <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/plugins/lightgallery.min.css" />
+    <link rel="stylesheet" href="assets/css/plugins/swiper.min.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        /* Spinner becomes the rotating ring */
+.spinner {
+    border: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    position: relative;
+}
+
+/* Rotating ring around the logo */
+.spinner::before {
+    content: '';
+    position: absolute;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #148d55;     /* Change color to match your theme */
+    border-right-color: #148d55;
+    animation: ringRotate 1.5s linear infinite;
+    top: 0;
+    left: 0;
+}
+
+/* Logo image — round and still */
+.preloader-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    animation: none;
+    position: relative;
+    z-index: 1;
+}
+
+/* Ring rotation animation */
+@keyframes ringRotate {
+    0%   { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+    </style>
+
+</head>
+
+<body>
+    <div id="minicircle"></div>
+    <!-- Preloader -->
+    <div id="preloader">
+        <div id="ak-preloader" class="ak-preloader">
+            <div class="animation-preloader">
+
+                <!-- Replace spinner with your image -->
+                <div class="spinner">
+                    <img src="assets/upload/preloader.png" alt="Logo" style="width: 300px; height: 300px; object-fit: contain;" />
+                </div>
+
+                    <div class="txt-loading">
+                        <span data-text-preloader="G" class="letters-loading">G</span>
+                        <span data-text-preloader="R" class="letters-loading">R</span>
+                        <span data-text-preloader="E" class="letters-loading">E</span>
+                        <span data-text-preloader="E" class="letters-loading">E</span>
+                        <span data-text-preloader="N" class="letters-loading">N</span>
+
+                        <!-- Correct space span with data attribute -->
+                        <span data-text-preloader=" " class="letters-loading" style="display: inline-block; width: 20px;">&nbsp;</span>
+
+                        <span data-text-preloader="H" class="letters-loading">H</span>
+                        <span data-text-preloader="E" class="letters-loading">E</span>
+                        <span data-text-preloader="A" class="letters-loading">A</span>
+                        <span data-text-preloader="V" class="letters-loading">V</span>
+                        <span data-text-preloader="E" class="letters-loading">E</span>
+                        <span data-text-preloader="N" class="letters-loading">N</span>
+                    </div>
+            </div>
+            <div class="loader-section section-left"></div>
+            <div class="loader-section section-right"></div>
+        </div>
+    </div>
+    <?php include"common/header.php"; ?>
+    <div id="scrollsmoother-container">
+        <!-- Start Hero -->
+        <Section>
+            <div class="ak-commmon-hero ak-style1 ak-bg" data-src="assets/img/banner_top_all.png">
+                <div class="ak-commmon-heading">
+                    <div class="ak-section-heading ak-style-1 ak-type-1 ak-color-1 page-top-title">
+                        <div class="ak-section-subtitle">
+                            <a href="index-2.html">Home</a> / Services
+                        </div>
+                        <h2 class="ak-section-title page-title-anim">Rajwada Palace</h2>
+                    </div>
+                </div>
+            </div>
+        </Section>
+        <!-- End Hero -->
+
+        <!-- Start Blog Content -->
+        <section class="container">
+            <div class="ak-height-150 ak-height-lg-60"></div>
+            <div class="blog-details">
+                <h3 class="anim-title-3">Experience Royalty, Celebrate Like Kings</h3>
+                <div class="blog-details-subtitle">
+                    <p class="blog-details-date"></p>
+                    <p>By: Green Heaven</p>
+                </div>
+            </div>
+            <div class="row" id="containerAround">
+                <div class="col-md-8">
+                    <div class="blog-content" id="scrollGaleria">
+                        <div class="ak-height-50 ak-height-lg-30"></div>
+                        <div class="ak-slider ak-slider-4">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <img src="assets/img/portfolio.jpg" alt="portfolio" class="img-fluid">
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <img src="assets/img/portfolio_details.jpg" alt="portfolio"
+                                            class="img-fluid">
+                                    </div>
+
+                                </div>
+                                <div class="ak-swiper-controll-4">
+                                    <div class="ak-swiper-navigation-wrap-4">
+                                        <div class="ak-swiper-button-prev-4">
+                                            <div class="btn-cricle"></div>
+                                            <div class="btn-arrow">
+                                                <svg width="40" height="55" viewBox="0 0 54 52" fill="none"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <g clip-path="url(#clip0_1166_8458)">
+                                                        <path
+                                                            d="M16.6309 25.4001L25.1406 16.8902C25.4463 16.5333 25.9835 16.4917 26.3405 16.7974C26.6974 17.1031 26.739 17.6403 26.4333 17.9973C26.4048 18.0306 26.3738 18.0617 26.3405 18.0901L19.2859 25.1532H52.9762C53.4461 25.1532 53.8271 25.5343 53.8271 26.0043C53.8271 26.4743 53.4461 26.8552 52.9762 26.8552H19.2859L26.3405 33.9098C26.6974 34.2155 26.739 34.7527 26.4333 35.1097C26.1275 35.4666 25.5904 35.5082 25.2334 35.2025C25.2001 35.174 25.1691 35.1429 25.1406 35.1097L16.6308 26.5999C16.3009 26.2681 16.3009 25.732 16.6309 25.4001Z"
+                                                            fill="#FFD28D" />
+                                                    </g>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                        <div class="ak-swiper-button-next-4">
+                                            <div class="btn-cricle"></div>
+                                            <div class="btn-arrow">
+                                                <svg width="40" height="55" viewBox="0 0 55 52" fill="none"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <g clip-path="url(#clip0_1166_8452)">
+                                                        <path
+                                                            d="M38.0234 25.4001L29.5137 16.8902C29.208 16.5333 28.6708 16.4917 28.3138 16.7974C27.9569 17.1031 27.9153 17.6403 28.221 17.9973C28.2495 18.0306 28.2805 18.0617 28.3138 18.0901L35.3684 25.1532H1.6781C1.20816 25.1532 0.827148 25.5343 0.827148 26.0043C0.827148 26.4743 1.20816 26.8552 1.6781 26.8552H35.3684L28.3138 33.9098C27.9569 34.2155 27.9153 34.7527 28.221 35.1097C28.5268 35.4666 29.0639 35.5082 29.4209 35.2025C29.4542 35.174 29.4852 35.1429 29.5137 35.1097L38.0235 26.5999C38.3534 26.2681 38.3534 25.732 38.0234 25.4001Z"
+                                                            fill="#FFD28D" />
+                                                    </g>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        <div class="ak-height-75 ak-height-lg-30"></div>
+                        <p>tep into a world of grandeur at Rajwada Palace, where timeless royal architecture meets modern luxury. Designed for grand weddings, royal receptions, and high-profile celebrations, Rajwada Palace is not just a venue—it’s a statement of elegance and prestige.
+                        </p>
+                        <p>From majestic entrances to breathtaking interiors, every detail is crafted to make your celebration unforgettable.</p>
+
+                        <!-- Start Extra -->
+                        <div class="ak-height-50 ak-height-lg-30"></div>
+
+                        <h5 class="anim-title-2 ak-white-color">The Royal Grandeur</h5>
+
+                        <div class="ak-height-15 ak-height-lg-15"></div>
+
+                        <p>
+                            Rajwada Palace is inspired by traditional palace aesthetics, offering a majestic ambiance
+                            that instantly elevates your event.
+                        </p>
+
+                        <div class="ak-height-10 ak-height-lg-10"></div>
+
+                        <ul class="ak-list-style">
+                            <li>Regal décor with palace-style architecture</li>
+                            <li>Grand entrance for royal processions</li>
+                            <li>Lavish interiors designed for luxury celebrations</li>
+                        </ul>
+
+                        <div class="ak-height-10 ak-height-lg-10"></div>
+                        <!-- End Extra -->
+
+                         <div class="ak-height-50 ak-height-lg-30"></div>
+
+                        <h5 class="ak-white-color">Spacious & Magnificent Venues</h5>
+
+                        <div class="ak-height-25 ak-height-lg-20"></div>
+
+                        <div class="blog-details">
+                            <div class="blog-details-subtitle">
+
+                                <div>
+                                    <h5 class="anim-title-3 ak-white-color">🏰 Grand Hall</h5>
+                                    <ul>
+                                        <li>16,000 sq. ft pillarless hall</li>
+                                        <li>Ideal for receptions, conferences, and royal banquets</li>
+                                        <li>Elegant lighting and customizable décor layouts</li>
+                                    </ul>
+                                </div>
+
+                                <p class="blog-details-date"></p>
+
+                                <div>
+                                    <h5 class="anim-title-3 ak-white-color">🌊 Pool & Poolside Area</h5>
+                                    <ul>
+                                        <li>10,000 sq. ft poolside space</li>
+                                        <li>Ideal for cocktail parties, sangeet nights, and evening events</li>
+                                        <li>Magical atmosphere under decorative lighting</li>
+                                    </ul>
+                                </div>
+
+                                <p class="blog-details-date"></p>
+
+                                <div>
+                                    <h5 class="anim-title-3 ak-white-color">🌿 Lawn Area</h5>
+                                    <ul>
+                                        <li>7,000 sq. ft open lawn</li>
+                                        <li>Perfect for pheras, open-air dinners, and themed events</li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- End Spacious & Magnificent Venues -->
+
+                       
+                        <div class="ak-height-75 ak-height-lg-30"></div>
+                        <h4 class="anim-title-2 ak-white-color">Why Choose Rajwada Palace?</h4>
+                        <div class="ak-height-20 ak-height-lg-20"></div>
+                        <ul class="ak-list-style">
+                            <li> Palace-style luxury venue</li>
+                            <li> Multiple event spaces in one location</li>
+                            <li> Ideal for large-scale celebrations</li>
+                             <li>Premium hospitality services</li>
+                              <li> Custom décor & event planning support</li>
+                        </ul>
+                         <div class="ak-height-75 ak-height-lg-30"></div>
+                         <p> When your occasion deserves nothing but the best, Rajwada Palace offers a setting that turns moments into memories.</p>
+                        <div class="ak-height-75 ak-height-lg-30"></div>
+                        <!-- Start Video -->
+                        <div>
+                            <div class="video-section">
+                                <img src="assets/img/blog_details_video.jpg" alt="..."
+                                    class="video-section-bg-img ak-bg imagesZoom">
+                                <div class="video-section-btn">
+                                    <a href="https://www.youtube.com/watch?v=UsD1MhKBmD4"
+                                        class="ak-video-block ak-style1 ak-video-open">
+                                        <span class="ak-player-btn ak-accent-color">
+                                            <span></span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Video -->
+                        <div class="ak-height-75 ak-height-lg-30"></div>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
+                            galley of type</p>
+                        <div class="ak-height-75 ak-height-lg-30"></div>
+
+                        <div>
+                            <h3 class="anim-title-2 ak-white-color">Comment (1)</h3>
+                            <p>One Comment Yet! Comment post comment box is empty! </p>
+                            <ol class="comment-list">
+                                <li class="comment">
+                                    <div class="comment-body">
+                                        <div class="comment-author vcard">
+                                            <img class="avatar" src="assets/img/author.png" alt="Author">
+                                            <a href="#" class="url">George Steven</a>
+                                        </div>
+                                        <div class="comment-meta">
+                                            <a href="#">Sep 17, 2023 at 10:59 am </a>
+                                        </div>
+                                        <p>Donec pellentesque luctus tortor finibus blandit. Fusce tincidunt lectus
+                                            augue, quis commodo justo tincidunt eget. Praesent at elit diam. Tortor
+                                            finibus blandit
+                                        </p>
+                                        <div class="reply"><a class="comment-reply-link" href="#">
+                                                Reply
+                                                <svg width="16" height="14" viewBox="0 0 16 14" fill="none"
+                                                    xmlns="http://www.w3.org/2000/svg">
+                                                    <path
+                                                        d="M1 5.74707H8.5C10.0913 5.74707 11.6174 6.37921 12.7426 7.50443C13.8679 8.62965 14.5 10.1558 14.5 11.7471V13.2471M1 5.74707L5.5 10.2471M1 5.74707L5.5 1.24707"
+                                                        stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+                                                        stroke-linejoin="round"></path>
+                                                </svg>
+                                            </a></div>
+                                    </div>
+                                    <ol class="children">
+                                        <li class="comment">
+                                            <div class="comment-body">
+                                                <div class="comment-author vcard">
+                                                    <img class="avatar" src="assets/img/testimonial_1.jpg"
+                                                        alt="Author">
+                                                    <a href="#" class="url">Sarah Taylor</a>
+                                                </div>
+                                                <div class="comment-meta">
+                                                    <a href="#">Sep 17, 2023 at 5:59 pm </a>
+                                                </div>
+                                                <p>Thanks bro 🙂</p>
+                                                <div class="reply"><a class="comment-reply-link" href="#">
+                                                        Reply
+                                                        <svg width="16" height="14" viewBox="0 0 16 14" fill="none"
+                                                            xmlns="http://www.w3.org/2000/svg">
+                                                            <path
+                                                                d="M1 5.74707H8.5C10.0913 5.74707 11.6174 6.37921 12.7426 7.50443C13.8679 8.62965 14.5 10.1558 14.5 11.7471V13.2471M1 5.74707L5.5 10.2471M1 5.74707L5.5 1.24707"
+                                                                stroke="currentColor" stroke-width="1.5"
+                                                                stroke-linecap="round" stroke-linejoin="round"></path>
+                                                        </svg>
+                                                    </a></div>
+                                            </div>
+                                        </li>
+                                    </ol>
+                                </li>
+                            </ol>
+                        </div>
+                        <div class="ak-height-100 ak-height-lg-60"></div>
+                        <div class="contact-content">
+                            <div class="contact-form">
+                                <h2 class="contact-form-title anim-title-2 ak-white-color">Post A Comment</h2>
+                                <from action="https://elegencia-html.vercel.app/jsfdjks.php" method="post">
+                                    <div class="from-input">
+                                        <input placeholder="Name" class="col-md-5 col-12" type="text" name="fristname"
+                                            id="fristname">
+                                        <input placeholder="Email" class="col-md-5 col-12" type="email" name="email"
+                                            id="emailid">
+                                    </div>
+                                    <div class="col-md-12">
+                                        <textarea name="textarea" rows="5" class="col-12 col-md-10"
+                                            placeholder="Comment text."></textarea>
+                                        </textarea>
+                                    </div>
+                                    <div class="ak-height-40 ak-height-lg-20"></div>
+                                    <div class="ak-btn style-5">
+                                        <button type="submit">Post Comment
+                                        </button>
+                                    </div>
+                                </from>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Start Widget -->
+
+
+
+
+
+                <div class="col-md-4">
+                    <div id="infoProduto">
+                        <div class="ak-height-50 ak-height-lg-30"></div>
+                        <div>
+                            <div class="search-filed">
+                                <input type="text" class="input-section" placeholder="Search">
+                                <button type="submit" class="search-icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25"
+                                        fill="none">
+                                        <path
+                                            d="M15.5 14.0898H14.71L14.43 13.8198C15.4439 12.6439 16.0011 11.1425 16 9.58985C16 8.30427 15.6188 7.04756 14.9046 5.97864C14.1903 4.90972 13.1752 4.0766 11.9874 3.58463C10.7997 3.09266 9.49279 2.96394 8.23192 3.21474C6.97104 3.46555 5.81285 4.08461 4.90381 4.99365C3.99477 5.90269 3.3757 7.06088 3.1249 8.32176C2.87409 9.58264 3.00282 10.8896 3.49479 12.0773C3.98676 13.265 4.81988 14.2802 5.8888 14.9944C6.95772 15.7086 8.21442 16.0898 9.5 16.0898C11.11 16.0898 12.59 15.4998 13.73 14.5198L14 14.7998V15.5898L19 20.5798L20.49 19.0898L15.5 14.0898ZM9.5 14.0898C7.01 14.0898 5 12.0798 5 9.58985C5 7.09985 7.01 5.08985 9.5 5.08985C11.99 5.08985 14 7.09985 14 9.58985C14 12.0798 11.99 14.0898 9.5 14.0898Z"
+                                            fill="white" />
+                                    </svg>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="ak-height-50 ak-height-lg-30"></div>
+                        <div>
+                            <h5>Popular Category</h5>
+                            <div class="category-list">
+                                <a href="#">Cheeseburgers</a>
+                                <a href="#">Paneer Pakora</a>
+                                <a href="#">Hors D'oeuvres</a>
+                                <a href="#">Spaghetti Carbonara </a>
+                                <a href="#">Croquetas de jamón</a>
+
+                            </div>
+                        </div>
+                        <div class="ak-height-50 ak-height-lg-30"></div>
+                        <div class="popular-tag">
+                            <a href="#">Sushi</a>
+                            <a href="#">Sashimi</a>
+                            <a href="#">Moussaka</a>
+                            <a href="#">Moussaka</a>
+                            <a href="#">Antipasto</a>
+                            <a href="#">antipasto</a>
+                            <a href="#">Apple pie</a>
+
+                        </div>
+                        <div class="ak-height-50 ak-height-lg-30"></div>
+                        <div class="author-info">
+                            <img class="author-img" src="assets/img/author.png" alt="...">
+                            <h6 class="author-title">Baskerville</h6>
+                            <p class="author-text">I'm are lorem ipsum pass <br> ages of available,</p>
+                            <a href="https://www.facebook.com/" class="author-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="8" height="15" viewBox="0 0 8 15"
+                                    fill="none">
+                                    <path
+                                        d="M1.76547 14.043H4.71284V8.14086H7.36842L7.66021 5.20823H4.71284V3.72718C4.71284 3.53176 4.79047 3.34434 4.92866 3.20615C5.06684 3.06797 5.25426 2.99034 5.44968 2.99034H7.66021V0.0429688H5.44968C4.47257 0.0429688 3.53548 0.431126 2.84455 1.12205C2.15363 1.81297 1.76547 2.75007 1.76547 3.72718V5.20823H0.291789L0 8.14086H1.76547V14.043Z"
+                                        fill="white" />
+                                </svg>
+                            </a>
+                            <a href="https://twitter.com/?lang=en" class="author-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="19" height="15" viewBox="0 0 19 15"
+                                    fill="none">
+                                    <path
+                                        d="M6.2211 14.043C12.8947 14.043 16.5443 8.65653 16.5443 3.98513C16.5443 3.83222 16.5443 3.68002 16.5339 3.52854C17.2442 3.02792 17.8573 2.40802 18.3444 1.69789C17.6823 1.98409 16.9799 2.17187 16.2606 2.25498C17.0178 1.81297 17.5844 1.11802 17.8551 0.299413C17.1431 0.71109 16.3641 1.00123 15.5517 1.15731C15.0047 0.590554 14.2811 0.215262 13.4931 0.089505C12.7051 -0.0362519 11.8964 0.0945368 11.1924 0.461633C10.4883 0.828729 9.92806 1.41167 9.59829 2.12025C9.26853 2.82882 9.18764 3.62354 9.36815 4.38141C7.92572 4.31098 6.5146 3.9458 5.2264 3.3096C3.9382 2.6734 2.8017 1.78038 1.89068 0.688517C1.42683 1.46677 1.28484 2.388 1.4936 3.26467C1.70236 4.14134 2.24618 4.90754 3.01437 5.4073C2.4369 5.3905 1.87205 5.23858 1.36752 4.96435V5.00958C1.36775 5.8257 1.65769 6.61661 2.18817 7.24821C2.71865 7.87981 3.45701 8.31321 4.27805 8.4749C3.74395 8.61666 3.18361 8.63729 2.64005 8.53521C2.87186 9.23761 3.32319 9.85187 3.93091 10.2921C4.53864 10.7323 5.27237 10.9765 6.02952 10.9904C5.27721 11.5663 4.41577 11.9921 3.49445 12.2434C2.57313 12.4947 1.61001 12.5666 0.660156 12.455C2.31919 13.4926 4.24966 14.0431 6.2211 14.0408"
+                                        fill="white" />
+                                </svg>
+                            </a>
+                            <a href="https://bd.linkedin.com/" class="author-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17"
+                                    fill="none">
+                                    <path
+                                        d="M4.9694 3.37599C4.96922 3.72961 4.82858 4.06868 4.57841 4.31861C4.32823 4.56853 3.98902 4.70884 3.6354 4.70866C3.28178 4.70848 2.94271 4.56784 2.69279 4.31766C2.44286 4.06749 2.30256 3.72828 2.30273 3.37466C2.30291 3.02104 2.44356 2.68197 2.69373 2.43205C2.9439 2.18212 3.28311 2.04182 3.63673 2.04199C3.99036 2.04217 4.32942 2.18281 4.57935 2.43299C4.82927 2.68316 4.96958 3.02237 4.9694 3.37599ZM5.0094 5.69599H2.34273V14.0427H5.0094V5.69599ZM9.22273 5.69599H6.5694V14.0427H9.19607V9.66266C9.19607 7.22266 12.3761 6.99599 12.3761 9.66266V14.0427H15.0094V8.75599C15.0094 4.64266 10.3027 4.79599 9.19607 6.81599L9.22273 5.69599Z"
+                                        fill="white" />
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Widget -->
+            </div>
+        </section>
+        <!-- End Blog Content -->
+
+        <!-- Start Similar Post -->
+        <div class="container">
+            <div class="ak-height-150 ak-height-lg-60"></div>
+            <div class="ak-section-heading ak-style-1 ak-type-1">
+                <div class="ak-section-subtitle">
+                    Similar News
+                </div>
+                <h2 class="ak-section-title anim-title">Similar News</h2>
+            </div>
+            <div class="ak-height-75 ak-height-lg-60"></div>
+            <div class="row row-cols-1 row-cols-md-3 g-4" id="pagination-container">
+                <div class="col ak-border border-none-bottom drop-anim-gallery">
+                    <div class="blog h-100">
+                        <img src="assets/img/blog_4.jpg" class="blog-img-top" alt="...">
+                        <div class="blog-body">
+                            <p class="blog-time">06 June 2023</p>
+                            <a href="blog-details.html">
+                                <h6 class="blog-title">Exquisite Dining Make Moment</h6>
+                            </a>
+                            <a href="blog-details.html" class="blog-text">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col ak-border border-none-bottom drop-anim-gallery">
+                    <div class="blog h-100">
+                        <img src="assets/img/blog_5.jpg" class="blog-img-top" alt="...">
+                        <div class="blog-body">
+                            <p class="blog-time">06 June 2023</p>
+                            <a href="blog-details.html">
+                                <h6 class="blog-title">Exquisite Dining Make Moment</h6>
+                            </a>
+                            <a href="blog-details.html" class="blog-text">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col ak-border border-none-right border-none-bottom">
+                    <div class="blog h-100">
+                        <img src="assets/img/blog_6.jpg" class="blog-img-top" alt="...">
+                        <div class="blog-body">
+                            <p class="blog-time">06 June 2023</p>
+                            <a href="blog-details.html">
+                                <h6 class="blog-title">Exquisite Dining Make Moment</h6>
+                            </a>
+                            <a href="blog-details.html" class="blog-text">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Similar Post -->
+
+     <?php include"common/footer.php"; ?>

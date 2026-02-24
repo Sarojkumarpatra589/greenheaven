@@ -21,11 +21,9 @@
 
                     <div class="footer-main">
                         <div class="footer-eamil-menu">
-                            <!-- <div class="footer-email">
-                                <a href="greenhavenresort279@gmail.com">
-                                    greenhavenresort279@gmail.com
-                                </a>
-                            </div> -->
+                            <div class="footer-email">
+                                  Our  Service >>
+                            </div>
                             <div class="footer-menu">
                                 <ul>
                                     <li><a href="index-2.html">Rajwada Palace</a></li>
