@@ -94,7 +94,7 @@
 
                     <div class="copy-right-section">
                         <p class="text-uppercase text-md-center">
-                            Copyright © 2026 Green Haven. All Rights Reserved. | Designed by Drafticode
+                            Copyright © 2026 Green Heaven. All Rights Reserved. | Designed by Drafticode
                         </p>
                     </div>
 

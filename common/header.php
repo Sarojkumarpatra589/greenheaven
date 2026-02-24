@@ -50,7 +50,7 @@
                                 <li>
                                     <a href="index.php">Home</a>
                                 </li>
-                                 <li>
+                                <li>
                                     <a href="about.php">About</a>
                                 </li>
                                 <!-- <li>
@@ -82,6 +82,9 @@
                                             <a href="privatevilla.php">Private Villa</a>
                                         </li>
                                     </ul>
+                                </li>
+                                <li>
+                                    <a href="gallery.php">gallery</a>
                                 </li>
                                 <li>
                                     <a href="contact.php">Contact</a>
